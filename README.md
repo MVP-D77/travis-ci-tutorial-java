@@ -37,4 +37,4 @@ If you don't want it:
 # Contributing
 
 Spotted a mistake? Questions? Suggestions?  
-[Open an Issue](https://github.com/joaomlneto/travis-ci-tutorial-java/issues/new)!
+[Open an Issue](https://github.com/MVP-D77/travis-ci-tutorial-java/issues/new)!
